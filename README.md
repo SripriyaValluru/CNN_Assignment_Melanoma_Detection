@@ -1,6 +1,4 @@
 # Melanoma Detection Using Custom CNN
-> Outline a brief description of your project.
-
 
 ## Table of Contents
 * [General Info](#general-information)
